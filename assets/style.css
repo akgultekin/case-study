@@ -1,5 +1,31 @@
-/* .wrapper {
-    max-width: 70%;
-    margin: auto;
-    padding: 1rem;
-} */
+.bg-color {
+    background-image: linear-gradient(to bottom, rgba(19,75,112,0.2), rgba(32,30,67,0.1)) !important;
+}
+
+.bg-color-1 {
+    background-color: #508C9B !important;
+}
+
+.bg-color-2 {
+    background-image: linear-gradient(to right, #134B70, rgba(19, 75, 12, 0.9), #134B70, #201E43) !important;
+}
+
+.bg-color-3 {
+    background-image: linear-gradient(to right, rgba(238, 238,238,0.8), rgba(80, 140,155,0.1), rgba(19,75,112,0.2), rgba(32,30,67,0.1), rgba(227,227,227,0.1)) !important;
+}
+
+.bg-color-4 {
+    background-color: #E3E3E3 !important;
+}
+
+.bg-color-5 {
+    background-image: linear-gradient(to right, rgba(238, 238,238,0.8), rgba(80, 140,155,0.1), rgba(19,75,112,0.2), rgba(32,30,67,0.1), rgba(227,227,227,0.1)) !important;
+}
+
+.bg-color-6 {
+    background-image: linear-gradient(to bottom, #508C9B, #134B70);
+}
+
+.text-color {
+    color: #201E43 !important;
+}
